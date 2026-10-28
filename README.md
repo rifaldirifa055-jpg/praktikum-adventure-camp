@@ -1,7 +1,7 @@
 # praktikum-adventure-camp
 # Adventure Camp - Sistem Penyewaan Peralatan Camping
 
-## Identitas Mahasiswa
+# Identitas Mahasiswa
 - Nama: ISI NAMA LENGKAP KAMU
 - NIM: ISI NIM KAMU
 - Program Studi: Pendidikan Teknologi Informasi
